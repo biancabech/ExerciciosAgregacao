@@ -6,7 +6,9 @@ using System.Threading.Tasks;
 
 namespace ExerciciosAgregacao
 {
-    internal class Alunos
+    internal class Aluno
     {
+        public int Matricula;
+        public string Nome;
     }
 }
